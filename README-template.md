@@ -56,5 +56,5 @@ Each challenge helps me add more tools. These form validation challenges are ver
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [My Portfolio](https://portfolio.thisissocrates.com/)
+- Frontend Mentor - [@socratesioa](https://www.frontendmentor.io/profile/socratesioa)
